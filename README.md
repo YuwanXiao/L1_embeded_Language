@@ -2,7 +2,7 @@
 
 The goal is to do a complete analysis include check_isMyLanguage, infer_type_check, and infer_memory on the programme written in my sub_language
 
-By overridding the Visit node function in python and recursively call the function on the node and child node,we can easily check if it is under the rule of my sub language.
+By overridding the Visit node function in python and recursively call the function on the node and child node,we can easily check if it is under the rule of my sub language.\n
 By using the evm={} to store the necessary information for variables we create, so that we can get the information later when the variable is used afterwards.
 
 
